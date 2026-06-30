@@ -1,4 +1,4 @@
-# Hi, I'm Hafiz Muhammad Ali 👋
+# Hi, I'm Muhammad Ali 👋
 
 I'm currently pursuing an **M.Sc. in Computer Science (High Integrity Systems)** at **Frankfurt University of Applied Sciences**, with a growing focus on **Applied Machine Learning, Natural Language Processing, Generative AI, and Backend Engineering**.
 
